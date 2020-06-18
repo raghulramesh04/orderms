@@ -1,0 +1,7 @@
+organization=raghulramesh04
+projectKey=raghulramesh04_orderms
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8621
+dashboardUrl=https://sonarcloud.io/dashboard?id=raghulramesh04_orderms
+ceTaskId=AXK2_hXn__OhXPWk3FSl
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXK2_hXn__OhXPWk3FSl

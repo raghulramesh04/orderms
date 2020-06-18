@@ -1,0 +1,27 @@
+
+Xcom.infosys.project2.order.controller.OrderController#getproductorders()Ljava/util/List;t
+jC:/Users/ROYAL LINK TRADE/orderms/src/main/java/com/infosys/project2/order/controller/OrderController.java2 2(/"1*ÿ
+1t
+jC:/Users/ROYAL LINK TRADE/orderms/src/main/java/com/infosys/project2/order/controller/OrderController.java3" 3(.ƒ
+€
+t
+jC:/Users/ROYAL LINK TRADE/orderms/src/main/java/com/infosys/project2/order/controller/OrderController.java3" 3(.5
+%0/com.infosys.project2.order.service.OrderService"__id*K*I7
+5com.infosys.project2.order.controller.OrderController"
+orderservice°­
+t
+jC:/Users/ROYAL LINK TRADE/orderms/src/main/java/com/infosys/project2/order/controller/OrderController.java3" 3(A
+%1java.util.List"Rcom.infosys.project2.order.service.OrderService#getproductorders()Ljava/util/List;*7
+5
+%0/com.infosys.project2.order.service.OrderService2getproductorders()³
+°
+t
+jC:/Users/ROYAL LINK TRADE/orderms/src/main/java/com/infosys/project2/order/controller/OrderController.java3 3(B
+orderDtojava.util.List"__id*
+
+%1java.util.List"”
+t
+jC:/Users/ROYAL LINK TRADE/orderms/src/main/java/com/infosys/project2/order/controller/OrderController.java4 4(
+
+orderDtojava.util.ListB97
+5com.infosys.project2.order.controller.OrderController
